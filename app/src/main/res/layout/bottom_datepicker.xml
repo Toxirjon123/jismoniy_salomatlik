@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_bg"
+        android:paddingVertical="@dimen/_10sdp"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/vi"
+            android:layout_width="@dimen/_14sdp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/open_icon"
+            android:layout_height="@dimen/_6sdp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_below="@id/vi"
+            android:textSize="16s"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_centerHorizontal="true"
+
+            android:text="Tug'ilgan sanangiz"/>
+        <DatePicker
+            android:layout_width="match_parent"
+            android:calendarViewShown="false"
+            android:datePickerMode="spinner"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+</RelativeLayout>
