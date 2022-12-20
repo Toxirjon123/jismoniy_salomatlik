@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_right_24.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_login_24.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/active_line.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/bg.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/bg_btn.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/cons_bg.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/dialog_bg.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic__9802.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_asset_1.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_asset_15.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_asset_9.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/inactive_line.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/littlebtn_bg.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/txt_bg.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_intro1.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/attention_item.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/graph_dialog.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/item_photo.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/number_picker_dialog.xml" value="0.335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1795" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
